@@ -2,7 +2,7 @@
 
 I build workflow automations for back-office teams: n8n, Python and SQL, with Claude where rules can't decide. Before that I spent four years in procurement and logistics operations, so I start from how a process fails, not from the tool.
 
-**In production:** a monthly report pipeline for an accounting firm. It pulls data from an on-premise SQL Server, renders 8 reports per client company to PDF and files them into each client's folder. Unattended since September 2026.
+**In production:** a monthly document pipeline for an accounting firm. It pulls data from an on-premise SQL Server and produces each client company's payroll and VAT documents: transfer lists, payslips (also bilingual), garnishment and rent payment statements, VAT ledgers, and tax-form files for the companies that need them. Everything is filed into each client's folder. Unattended since September 2026.
 
 **Public projects**
 
